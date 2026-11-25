@@ -1,0 +1,301 @@
+Patient_ID,Admission_Date,Age,Gender,Department,Doctor,Admission_Type,Stay_Days,Treatment_Cost,Satisfaction_Rating,Readmitted,Month,Age_Group,Cost_Per_Day
+P285,2026-01-01,45,Male,Emergency,Dr. Sharma,Emergency,1,25401,4.0,No,2026-01,36-50,25401.0
+P240,2026-01-01,53,Male,Gynecology,Dr. Lakshmi,Emergency,2,27242,3.9,No,2026-01,51-65,13621.0
+P168,2026-01-04,61,Female,General Medicine,Dr. Babu,Referral,3,16045,2.9,No,2026-01,51-65,5348.0
+P011,2026-01-04,25,Female,Neurology,Dr. Iyer,Walk-in,6,41684,4.5,No,2026-01,18-35,6947.0
+P287,2026-01-06,28,Female,Orthopedics,Dr. Singh,Emergency,3,49213,3.3,No,2026-01,18-35,16404.0
+P233,2026-01-06,19,Male,Emergency,Dr. Pillai,Emergency,4,30366,2.8,No,2026-01,18-35,7592.0
+P141,2026-01-06,43,Male,Emergency,Dr. Sharma,Emergency,2,27975,3.8,No,2026-01,36-50,13988.0
+P206,2026-01-07,63,Female,Cardiology,Dr. Rao,Emergency,5,55569,4.1,No,2026-01,51-65,11114.0
+P121,2026-01-10,52,Female,Cardiology,Dr. Rao,Referral,4,43607,4.0,No,2026-01,51-65,10902.0
+P094,2026-01-10,20,Male,General Medicine,Dr. Reddy,Referral,2,14904,4.4,No,2026-01,18-35,7452.0
+P223,2026-01-10,80,Male,General Medicine,Dr. Babu,Walk-in,5,17284,4.5,No,2026-01,65+,3457.0
+P142,2026-01-11,40,Male,General Medicine,Dr. Reddy,Walk-in,4,17802,4.0,No,2026-01,36-50,4450.0
+P086,2026-01-13,31,Female,General Medicine,Dr. Reddy,Emergency,7,20875,5.0,No,2026-01,18-35,2982.0
+P183,2026-01-13,44,Female,Emergency,Dr. Pillai,Emergency,2,34301,4.0,No,2026-01,36-50,17150.0
+P013,2026-01-17,45,Female,Orthopedics,Dr. Singh,Referral,5,42424,3.3,No,2026-01,36-50,8485.0
+P207,2026-01-18,40,Male,Emergency,Dr. Pillai,Emergency,2,15711,5.0,No,2026-01,36-50,7856.0
+P123,2026-01-19,17,Male,Emergency,Dr. Pillai,Emergency,3,24868,3.9,No,2026-01,0-17,8289.0
+P218,2026-01-20,61,Female,Emergency,Dr. Pillai,Emergency,5,33688,4.6,No,2026-01,51-65,6738.0
+P267,2026-01-20,57,Male,Gynecology,Dr. Lakshmi,Emergency,3,30195,4.3,No,2026-01,51-65,10065.0
+P116,2026-01-22,50,Male,Emergency,Dr. Sharma,Emergency,4,30391,3.9,No,2026-01,36-50,7598.0
+P145,2026-01-23,8,Female,Pediatrics,Dr. Priya,Referral,3,16934,3.2,No,2026-01,0-17,5645.0
+P248,2026-01-25,41,Female,General Medicine,Dr. Babu,Walk-in,5,16669,4.2,No,2026-01,36-50,3334.0
+P005,2026-01-28,40,Male,Neurology,Dr. Das,Emergency,7,45845,3.0,No,2026-01,36-50,6549.0
+P275,2026-01-30,51,Male,Neurology,Dr. Iyer,Walk-in,4,26281,4.4,No,2026-01,51-65,6570.0
+P191,2026-01-31,71,Female,Orthopedics,Dr. Nair,Referral,7,57509,3.8,No,2026-01,65+,8216.0
+P109,2026-01-31,47,Female,Neurology,Dr. Das,Emergency,5,40606,4.6,Yes,2026-01,36-50,8121.0
+P155,2026-02-02,39,Male,General Medicine,Dr. Menon,Emergency,2,14650,5.0,No,2026-02,36-50,7325.0
+P012,2026-02-03,43,Male,Orthopedics,Dr. Nair,Walk-in,5,38862,3.2,No,2026-02,36-50,7772.0
+P055,2026-02-04,25,Male,Neurology,Dr. Das,Emergency,6,68135,4.3,No,2026-02,18-35,11356.0
+P019,2026-02-04,25,Male,General Medicine,Dr. Menon,Emergency,4,17102,4.2,No,2026-02,18-35,4276.0
+P041,2026-02-06,45,Male,Orthopedics,Dr. Singh,Emergency,6,48262,4.0,No,2026-02,36-50,8044.0
+P208,2026-02-07,64,Female,Gynecology,Dr. Lakshmi,Referral,2,22027,4.1,No,2026-02,51-65,11014.0
+P034,2026-02-09,23,Male,Orthopedics,Dr. Singh,Referral,6,46166,4.5,No,2026-02,18-35,7694.0
+P245,2026-02-10,44,Male,Cardiology,Dr. Mehta,Walk-in,5,66150,4.9,No,2026-02,36-50,13230.0
+P273,2026-02-14,13,Female,Pediatrics,Dr. Kumar,Emergency,1,18367,3.0,No,2026-02,0-17,18367.0
+P022,2026-02-15,64,Female,Orthopedics,Dr. Singh,Emergency,5,40187,3.7,No,2026-02,51-65,8037.0
+P266,2026-02-16,55,Female,Cardiology,Dr. Mehta,Emergency,4,52683,4.4,No,2026-02,51-65,13171.0
+P171,2026-02-18,13,Female,Pediatrics,Dr. Priya,Emergency,1,15757,3.9,No,2026-02,0-17,15757.0
+P253,2026-02-19,90,Female,Orthopedics,Dr. Nair,Walk-in,4,48451,3.7,No,2026-02,65+,12113.0
+P225,2026-02-19,48,Female,General Medicine,Dr. Reddy,Referral,3,18349,4.0,No,2026-02,36-50,6116.0
+P081,2026-02-20,26,Male,Orthopedics,Dr. Singh,Referral,5,37259,5.0,No,2026-02,18-35,7452.0
+P042,2026-02-22,79,Male,Emergency,Dr. Sharma,Emergency,1,27857,3.3,No,2026-02,65+,27857.0
+P080,2026-02-23,43,Male,Orthopedics,Dr. Nair,Walk-in,6,52769,3.8,No,2026-02,36-50,8795.0
+P017,2026-02-25,16,Female,Gynecology,Dr. Meena,Walk-in,2,28892,5.0,No,2026-02,0-17,14446.0
+P241,2026-02-25,28,Male,Neurology,Dr. Das,Emergency,6,55879,4.0,No,2026-02,18-35,9313.0
+P169,2026-02-26,51,Female,Neurology,Dr. Das,Walk-in,8,47022,4.0,No,2026-02,51-65,5878.0
+P016,2026-02-27,44,Female,General Medicine,Dr. Menon,Referral,7,20843,2.9,No,2026-02,36-50,2978.0
+P074,2026-02-27,78,Male,General Medicine,Dr. Reddy,Walk-in,4,18878,4.7,No,2026-02,65+,4720.0
+P292,2026-02-28,51,Female,Orthopedics,Dr. Nair,Referral,8,42513,4.0,No,2026-02,51-65,5314.0
+P166,2026-03-01,9,Male,Pediatrics,Dr. Priya,Walk-in,1,19470,4.3,No,2026-03,0-17,19470.0
+P095,2026-03-05,33,Female,Neurology,Dr. Das,Emergency,4,56896,4.2,No,2026-03,18-35,14224.0
+P279,2026-03-05,38,Male,Emergency,Dr. Sharma,Emergency,1,27936,3.7,No,2026-03,36-50,27936.0
+P237,2026-03-05,48,Female,General Medicine,Dr. Reddy,Emergency,2,15788,4.2,No,2026-03,36-50,7894.0
+P102,2026-03-06,38,Male,General Medicine,Dr. Babu,Walk-in,1,16034,3.7,No,2026-03,36-50,16034.0
+P242,2026-03-06,38,Female,Orthopedics,Dr. Singh,Emergency,7,59125,4.3,No,2026-03,36-50,8446.0
+P195,2026-03-08,59,Male,Orthopedics,Dr. Nair,Referral,7,47504,4.5,No,2026-03,51-65,6786.0
+P278,2026-03-08,34,Female,General Medicine,Dr. Reddy,Walk-in,4,21729,4.0,No,2026-03,18-35,5432.0
+P283,2026-03-08,65,Male,Cardiology,Dr. Mehta,Emergency,3,65763,2.8,No,2026-03,51-65,21921.0
+P157,2026-03-09,26,Female,Neurology,Dr. Das,Referral,4,54930,3.9,Yes,2026-03,18-35,13732.0
+P149,2026-03-10,4,Female,Pediatrics,Dr. Kumar,Emergency,1,19190,3.9,No,2026-03,0-17,19190.0
+P049,2026-03-11,6,Female,Pediatrics,Dr. Priya,Emergency,5,23162,3.1,No,2026-03,0-17,4632.0
+P246,2026-03-12,1,Male,Pediatrics,Dr. Priya,Walk-in,2,18494,3.2,No,2026-03,0-17,9247.0
+P052,2026-03-13,70,Female,General Medicine,Dr. Babu,Walk-in,2,16902,3.5,Yes,2026-03,65+,8451.0
+P188,2026-03-13,48,Female,Cardiology,Dr. Rao,Emergency,6,59759,3.9,No,2026-03,36-50,9960.0
+P282,2026-03-14,49,Male,Neurology,Dr. Das,Walk-in,2,57021,4.0,No,2026-03,36-50,28510.0
+P136,2026-03-15,12,Male,Pediatrics,Dr. Kumar,Referral,4,19986,5.0,No,2026-03,0-17,4996.0
+P002,2026-03-15,71,Female,Emergency,Dr. Pillai,Emergency,5,31017,4.7,No,2026-03,65+,6203.0
+P051,2026-03-15,38,Male,Neurology,Dr. Iyer,Emergency,3,41116,3.9,No,2026-03,36-50,13705.0
+P133,2026-03-16,18,Male,Neurology,Dr. Das,Walk-in,4,38328,4.2,No,2026-03,18-35,9582.0
+P270,2026-03-17,41,Female,Emergency,Dr. Sharma,Emergency,2,20050,5.0,No,2026-03,36-50,10025.0
+P127,2026-03-18,49,Male,Orthopedics,Dr. Nair,Walk-in,5,42666,4.3,No,2026-03,36-50,8533.0
+P243,2026-03-20,8,Male,Pediatrics,Dr. Kumar,Referral,2,19255,2.9,No,2026-03,0-17,9628.0
+P182,2026-03-22,35,Male,Emergency,Dr. Pillai,Emergency,4,34268,2.9,Yes,2026-03,18-35,8567.0
+P230,2026-03-22,53,Female,Emergency,Dr. Sharma,Emergency,1,22957,4.9,No,2026-03,51-65,22957.0
+P250,2026-03-23,16,Female,Neurology,Dr. Das,Emergency,5,62869,2.3,No,2026-03,0-17,12574.0
+P163,2026-03-24,38,Male,Emergency,Dr. Sharma,Emergency,3,25047,4.5,No,2026-03,36-50,8349.0
+P114,2026-03-24,53,Female,Gynecology,Dr. Meena,Walk-in,4,38300,4.8,No,2026-03,51-65,9575.0
+P158,2026-03-26,7,Female,Pediatrics,Dr. Kumar,Emergency,4,16900,3.7,No,2026-03,0-17,4225.0
+P067,2026-03-27,12,Male,Pediatrics,Dr. Priya,Emergency,3,18305,4.8,No,2026-03,0-17,6102.0
+P238,2026-03-27,56,Male,Orthopedics,Dr. Nair,Walk-in,4,39436,4.9,No,2026-03,51-65,9859.0
+P008,2026-03-27,42,Male,Emergency,Dr. Pillai,Emergency,2,28594,3.7,No,2026-03,36-50,14297.0
+P192,2026-03-28,27,Male,General Medicine,Dr. Reddy,Walk-in,3,19768,4.0,No,2026-03,18-35,6589.0
+P201,2026-03-28,17,Male,Emergency,Dr. Sharma,Emergency,3,36721,5.0,No,2026-03,0-17,12240.0
+P006,2026-03-29,31,Female,Emergency,Dr. Sharma,Emergency,1,25170,3.1,No,2026-03,18-35,25170.0
+P274,2026-03-29,16,Male,Emergency,Dr. Pillai,Emergency,3,30412,3.8,No,2026-03,0-17,10137.0
+P092,2026-03-30,20,Female,Emergency,Dr. Sharma,Emergency,2,24345,5.0,No,2026-03,18-35,12172.0
+P289,2026-03-30,35,Male,Emergency,Dr. Pillai,Emergency,2,31585,5.0,No,2026-03,18-35,15792.0
+P004,2026-03-30,51,Male,Orthopedics,Dr. Singh,Walk-in,7,45834,3.8,No,2026-03,51-65,6548.0
+P043,2026-04-03,2,Female,Pediatrics,Dr. Priya,Walk-in,1,15859,4.4,No,2026-04,0-17,15859.0
+P167,2026-04-04,38,Female,General Medicine,Dr. Babu,Referral,5,19307,3.8,No,2026-04,36-50,3861.0
+P146,2026-04-04,52,Female,Gynecology,Dr. Lakshmi,Emergency,2,22589,3.8,No,2026-04,51-65,11294.0
+P113,2026-04-05,16,Female,Orthopedics,Dr. Singh,Walk-in,6,47730,4.0,No,2026-04,0-17,7955.0
+P015,2026-04-07,5,Female,Pediatrics,Dr. Kumar,Walk-in,2,15535,3.9,No,2026-04,0-17,7768.0
+P249,2026-04-09,57,Female,Emergency,Dr. Sharma,Emergency,2,20810,3.5,No,2026-04,51-65,10405.0
+P213,2026-04-10,57,Male,Cardiology,Dr. Mehta,Referral,5,48135,3.4,No,2026-04,51-65,9627.0
+P117,2026-04-11,51,Male,Emergency,Dr. Sharma,Emergency,2,27178,3.8,No,2026-04,51-65,13589.0
+P097,2026-04-13,16,Female,Cardiology,Dr. Mehta,Referral,1,34461,4.0,No,2026-04,0-17,34461.0
+P290,2026-04-14,46,Female,Emergency,Dr. Sharma,Emergency,2,34318,3.1,No,2026-04,36-50,17159.0
+P069,2026-04-16,43,Male,Gynecology,Dr. Meena,Emergency,2,19710,4.5,No,2026-04,36-50,9855.0
+P029,2026-04-16,32,Female,General Medicine,Dr. Menon,Emergency,3,13737,4.2,No,2026-04,18-35,4579.0
+P263,2026-04-17,35,Male,Cardiology,Dr. Rao,Emergency,7,40180,5.0,No,2026-04,18-35,5740.0
+P211,2026-04-18,48,Female,Neurology,Dr. Iyer,Walk-in,7,54168,4.1,No,2026-04,36-50,7738.0
+P199,2026-04-19,51,Male,Gynecology,Dr. Lakshmi,Emergency,4,26415,4.3,Yes,2026-04,51-65,6604.0
+P265,2026-04-20,75,Female,Cardiology,Dr. Mehta,Emergency,4,42837,4.6,No,2026-04,65+,10709.0
+P271,2026-04-21,52,Female,General Medicine,Dr. Menon,Referral,1,16156,3.3,No,2026-04,51-65,16156.0
+P181,2026-04-21,59,Female,Gynecology,Dr. Meena,Walk-in,3,19811,3.7,No,2026-04,51-65,6604.0
+P003,2026-04-22,30,Female,Emergency,Dr. Pillai,Emergency,5,36907,3.5,No,2026-04,18-35,7381.0
+P098,2026-04-22,46,Male,Neurology,Dr. Iyer,Referral,3,40097,3.8,No,2026-04,36-50,13366.0
+P103,2026-04-23,8,Female,Pediatrics,Dr. Priya,Walk-in,2,25358,3.1,No,2026-04,0-17,12679.0
+P147,2026-04-24,46,Female,Cardiology,Dr. Mehta,Emergency,5,54542,3.0,Yes,2026-04,36-50,10908.0
+P132,2026-04-28,51,Male,General Medicine,Dr. Babu,Emergency,5,15135,4.2,No,2026-04,51-65,3027.0
+P203,2026-04-30,53,Female,General Medicine,Dr. Menon,Emergency,3,17026,3.9,No,2026-04,51-65,5675.0
+P160,2026-05-05,44,Male,Cardiology,Dr. Mehta,Walk-in,8,52224,2.9,No,2026-05,36-50,6528.0
+P083,2026-05-05,43,Female,General Medicine,Dr. Babu,Emergency,2,15081,3.1,No,2026-05,36-50,7540.0
+P070,2026-05-06,24,Male,Orthopedics,Dr. Nair,Emergency,5,45123,4.4,No,2026-05,18-35,9025.0
+P277,2026-05-08,39,Male,Cardiology,Dr. Rao,Walk-in,4,52984,3.5,No,2026-05,36-50,13246.0
+P045,2026-05-09,26,Female,General Medicine,Dr. Babu,Walk-in,1,8365,3.7,No,2026-05,18-35,8365.0
+P144,2026-05-10,32,Male,Emergency,Dr. Pillai,Emergency,2,27262,4.9,No,2026-05,18-35,13631.0
+P219,2026-05-11,33,Male,Cardiology,Dr. Mehta,Emergency,7,59331,3.6,No,2026-05,18-35,8476.0
+P221,2026-05-11,66,Female,Emergency,Dr. Sharma,Emergency,1,30452,3.0,No,2026-05,65+,30452.0
+P106,2026-05-12,46,Male,Neurology,Dr. Das,Walk-in,5,52479,4.7,No,2026-05,36-50,10496.0
+P062,2026-05-14,59,Female,General Medicine,Dr. Reddy,Walk-in,4,17500,3.2,No,2026-05,51-65,4375.0
+P024,2026-05-16,25,Female,Cardiology,Dr. Mehta,Referral,5,59248,3.5,No,2026-05,18-35,11850.0
+P009,2026-05-17,55,Male,Emergency,Dr. Sharma,Emergency,2,40202,4.3,No,2026-05,51-65,20101.0
+P280,2026-05-19,16,Male,Emergency,Dr. Sharma,Emergency,1,27788,3.5,No,2026-05,0-17,27788.0
+P130,2026-05-19,42,Female,Neurology,Dr. Das,Walk-in,7,47515,4.2,No,2026-05,36-50,6788.0
+P198,2026-05-20,28,Female,Neurology,Dr. Iyer,Emergency,6,58654,4.5,No,2026-05,18-35,9776.0
+P295,2026-05-21,43,Female,General Medicine,Dr. Reddy,Walk-in,2,14494,4.7,No,2026-05,36-50,7247.0
+P226,2026-05-22,72,Female,Cardiology,Dr. Mehta,Emergency,5,46795,4.5,No,2026-05,65+,9359.0
+P138,2026-05-22,13,Male,Pediatrics,Dr. Priya,Referral,3,18376,4.5,No,2026-05,0-17,6125.0
+P077,2026-05-25,43,Male,Gynecology,Dr. Meena,Referral,2,25260,3.9,No,2026-05,36-50,12630.0
+P115,2026-05-25,49,Male,Cardiology,Dr. Rao,Emergency,4,43340,4.1,No,2026-05,36-50,10835.0
+P184,2026-05-27,61,Female,General Medicine,Dr. Reddy,Emergency,2,14136,3.1,No,2026-05,51-65,7068.0
+P018,2026-05-27,56,Female,Emergency,Dr. Pillai,Emergency,2,32323,3.4,No,2026-05,51-65,16162.0
+P165,2026-05-28,29,Female,General Medicine,Dr. Menon,Referral,6,23132,3.9,No,2026-05,18-35,3855.0
+P101,2026-05-28,37,Female,Gynecology,Dr. Meena,Walk-in,2,25018,4.4,No,2026-05,36-50,12509.0
+P264,2026-05-29,79,Male,Cardiology,Dr. Mehta,Walk-in,6,56326,4.6,No,2026-05,65+,9388.0
+P044,2026-06-05,16,Male,Emergency,Dr. Pillai,Emergency,2,33684,2.6,No,2026-06,0-17,16842.0
+P091,2026-06-06,44,Female,Cardiology,Dr. Rao,Emergency,3,29047,4.5,No,2026-06,36-50,9682.0
+P090,2026-06-08,49,Male,Orthopedics,Dr. Nair,Referral,7,42559,4.2,No,2026-06,36-50,6080.0
+P215,2026-06-09,28,Female,Emergency,Dr. Sharma,Emergency,1,36640,4.2,No,2026-06,18-35,36640.0
+P217,2026-06-09,38,Male,Emergency,Dr. Pillai,Emergency,2,21835,3.4,Yes,2026-06,36-50,10918.0
+P134,2026-06-11,21,Male,Orthopedics,Dr. Singh,Referral,7,60794,5.0,No,2026-06,18-35,8685.0
+P189,2026-06-14,69,Female,Orthopedics,Dr. Nair,Referral,5,54484,4.4,No,2026-06,65+,10897.0
+P093,2026-06-14,5,Male,Pediatrics,Dr. Priya,Walk-in,2,11974,3.5,No,2026-06,0-17,5987.0
+P291,2026-06-15,16,Male,Cardiology,Dr. Rao,Walk-in,5,57378,5.0,No,2026-06,0-17,11476.0
+P140,2026-06-17,73,Male,Emergency,Dr. Sharma,Emergency,1,26194,5.0,No,2026-06,65+,26194.0
+P143,2026-06-17,5,Female,Pediatrics,Dr. Priya,Referral,4,15366,4.6,No,2026-06,0-17,3842.0
+P100,2026-06-19,42,Female,Cardiology,Dr. Mehta,Walk-in,5,55366,4.4,No,2026-06,36-50,11073.0
+P125,2026-06-20,66,Male,General Medicine,Dr. Menon,Walk-in,3,16609,5.0,No,2026-06,65+,5536.0
+P010,2026-06-20,11,Female,Pediatrics,Dr. Kumar,Referral,2,21435,2.4,No,2026-06,0-17,10718.0
+P177,2026-06-20,75,Male,Emergency,Dr. Sharma,Emergency,1,19209,5.0,Yes,2026-06,65+,19209.0
+P252,2026-06-21,38,Female,General Medicine,Dr. Reddy,Walk-in,4,20956,4.1,Yes,2026-06,36-50,5239.0
+P137,2026-06-22,38,Female,Gynecology,Dr. Meena,Referral,3,27464,3.4,No,2026-06,36-50,9155.0
+P072,2026-06-24,44,Female,Neurology,Dr. Das,Emergency,3,44981,4.2,No,2026-06,36-50,14994.0
+P227,2026-06-27,42,Female,General Medicine,Dr. Babu,Walk-in,4,18793,3.7,No,2026-06,36-50,4698.0
+P236,2026-06-28,42,Male,Cardiology,Dr. Rao,Referral,5,63903,5.0,No,2026-06,36-50,12781.0
+P028,2026-07-01,30,Female,Gynecology,Dr. Meena,Emergency,3,31661,5.0,No,2026-07,18-35,10554.0
+P038,2026-07-01,49,Female,Cardiology,Dr. Mehta,Emergency,6,44038,3.6,No,2026-07,36-50,7340.0
+P059,2026-07-04,17,Female,Gynecology,Dr. Lakshmi,Walk-in,2,36039,4.7,No,2026-07,0-17,18020.0
+P026,2026-07-05,8,Female,Pediatrics,Dr. Kumar,Referral,5,23943,3.5,No,2026-07,0-17,4789.0
+P056,2026-07-07,63,Male,Orthopedics,Dr. Singh,Referral,5,63049,3.3,No,2026-07,51-65,12610.0
+P071,2026-07-11,43,Male,General Medicine,Dr. Reddy,Walk-in,4,15854,4.3,No,2026-07,36-50,3964.0
+P254,2026-07-13,62,Female,Orthopedics,Dr. Singh,Referral,7,61536,5.0,No,2026-07,51-65,8791.0
+P061,2026-07-16,69,Female,General Medicine,Dr. Menon,Walk-in,4,18530,3.8,No,2026-07,65+,4632.0
+P178,2026-07-16,65,Female,Emergency,Dr. Pillai,Emergency,4,25014,3.5,No,2026-07,51-65,6254.0
+P075,2026-07-17,42,Female,Cardiology,Dr. Rao,Walk-in,3,54042,3.6,No,2026-07,36-50,18014.0
+P128,2026-07-19,16,Male,Neurology,Dr. Das,Emergency,6,51264,4.0,No,2026-07,0-17,8544.0
+P104,2026-07-20,40,Female,General Medicine,Dr. Menon,Walk-in,5,22611,5.0,No,2026-07,36-50,4522.0
+P174,2026-07-20,42,Male,Orthopedics,Dr. Nair,Emergency,6,46753,3.2,No,2026-07,36-50,7792.0
+P261,2026-07-20,53,Male,Cardiology,Dr. Mehta,Emergency,8,56706,3.2,No,2026-07,51-65,7088.0
+P047,2026-07-21,58,Male,Cardiology,Dr. Mehta,Walk-in,5,46068,3.8,No,2026-07,51-65,9214.0
+P105,2026-07-22,35,Female,Emergency,Dr. Sharma,Emergency,3,30197,4.2,No,2026-07,18-35,10066.0
+P156,2026-07-22,51,Male,Gynecology,Dr. Meena,Referral,3,25733,2.6,No,2026-07,51-65,8578.0
+P152,2026-07-22,55,Male,Emergency,Dr. Sharma,Emergency,1,32368,3.7,Yes,2026-07,51-65,32368.0
+P286,2026-07-24,16,Female,Orthopedics,Dr. Nair,Emergency,6,34695,3.5,No,2026-07,0-17,5782.0
+P205,2026-07-25,36,Female,General Medicine,Dr. Babu,Referral,4,20550,4.2,No,2026-07,36-50,5138.0
+P185,2026-07-25,80,Female,Gynecology,Dr. Meena,Walk-in,2,22025,3.2,No,2026-07,65+,11012.0
+P001,2026-07-25,35,Male,General Medicine,Dr. Babu,Emergency,3,11741,2.5,No,2026-07,18-35,3914.0
+P272,2026-07-25,57,Male,Orthopedics,Dr. Nair,Walk-in,5,40916,3.8,Yes,2026-07,51-65,8183.0
+P214,2026-07-27,49,Female,General Medicine,Dr. Menon,Referral,7,19776,3.7,No,2026-07,36-50,2825.0
+P224,2026-07-27,46,Male,General Medicine,Dr. Reddy,Referral,5,19928,2.9,No,2026-07,36-50,3986.0
+P288,2026-07-28,23,Male,General Medicine,Dr. Babu,Walk-in,4,24485,3.0,No,2026-07,18-35,6121.0
+P202,2026-07-28,63,Male,General Medicine,Dr. Menon,Walk-in,3,18098,3.6,No,2026-07,51-65,6033.0
+P148,2026-07-29,14,Male,Pediatrics,Dr. Priya,Walk-in,2,19922,4.1,No,2026-07,0-17,9961.0
+P020,2026-07-31,16,Male,Gynecology,Dr. Meena,Emergency,4,23081,4.1,No,2026-07,0-17,5770.0
+P122,2026-08-01,48,Male,General Medicine,Dr. Reddy,Emergency,3,12562,3.6,No,2026-08,36-50,4187.0
+P037,2026-08-02,39,Female,Neurology,Dr. Iyer,Walk-in,3,26294,4.8,No,2026-08,36-50,8765.0
+P039,2026-08-06,44,Male,Emergency,Dr. Pillai,Emergency,2,26652,3.6,No,2026-08,36-50,13326.0
+P173,2026-08-06,16,Male,General Medicine,Dr. Babu,Walk-in,5,23704,4.9,No,2026-08,0-17,4741.0
+P154,2026-08-08,52,Female,General Medicine,Dr. Menon,Walk-in,4,21335,4.4,No,2026-08,51-65,5334.0
+P110,2026-08-08,2,Male,Pediatrics,Dr. Kumar,Referral,1,16657,3.8,No,2026-08,0-17,16657.0
+P058,2026-08-09,39,Female,Neurology,Dr. Iyer,Walk-in,7,55035,4.7,No,2026-08,36-50,7862.0
+P232,2026-08-09,16,Male,General Medicine,Dr. Menon,Walk-in,2,14874,4.2,No,2026-08,0-17,7437.0
+P033,2026-08-10,27,Female,Cardiology,Dr. Rao,Emergency,4,42420,3.4,No,2026-08,18-35,10605.0
+P186,2026-08-10,42,Female,Cardiology,Dr. Mehta,Walk-in,6,50963,4.6,No,2026-08,36-50,8494.0
+P040,2026-08-12,47,Male,Orthopedics,Dr. Nair,Walk-in,5,43774,4.1,No,2026-08,36-50,8755.0
+P269,2026-08-12,56,Male,Neurology,Dr. Das,Walk-in,6,57493,4.0,No,2026-08,51-65,9582.0
+P007,2026-08-13,55,Male,Cardiology,Dr. Mehta,Walk-in,7,43080,3.2,No,2026-08,51-65,6154.0
+P107,2026-08-13,23,Female,General Medicine,Dr. Babu,Emergency,2,16480,5.0,No,2026-08,18-35,8240.0
+P135,2026-08-14,33,Female,Gynecology,Dr. Lakshmi,Emergency,6,21372,4.0,No,2026-08,18-35,3562.0
+P281,2026-08-16,66,Female,General Medicine,Dr. Reddy,Referral,2,11609,3.2,No,2026-08,65+,5804.0
+P151,2026-08-16,58,Male,Orthopedics,Dr. Singh,Referral,7,55522,3.5,No,2026-08,51-65,7932.0
+P084,2026-08-18,49,Male,Orthopedics,Dr. Nair,Referral,5,39809,3.5,No,2026-08,36-50,7962.0
+P234,2026-08-18,56,Male,Emergency,Dr. Pillai,Emergency,2,31608,3.3,Yes,2026-08,51-65,15804.0
+P046,2026-08-19,20,Male,Emergency,Dr. Pillai,Emergency,2,27999,3.7,No,2026-08,18-35,14000.0
+P231,2026-08-19,30,Female,Neurology,Dr. Iyer,Walk-in,6,62627,4.8,No,2026-08,18-35,10438.0
+P099,2026-08-19,47,Female,Cardiology,Dr. Rao,Walk-in,4,67007,2.4,No,2026-08,36-50,16752.0
+P228,2026-08-21,27,Male,General Medicine,Dr. Reddy,Emergency,3,16275,4.2,Yes,2026-08,18-35,5425.0
+P021,2026-08-21,43,Male,Orthopedics,Dr. Singh,Emergency,4,32221,5.0,No,2026-08,36-50,8055.0
+P126,2026-08-22,63,Female,Orthopedics,Dr. Nair,Referral,3,34782,4.9,No,2026-08,51-65,11594.0
+P087,2026-08-22,27,Male,General Medicine,Dr. Babu,Referral,2,15384,4.1,No,2026-08,18-35,7692.0
+P153,2026-08-23,64,Female,General Medicine,Dr. Reddy,Walk-in,3,19227,3.5,Yes,2026-08,51-65,6409.0
+P210,2026-08-23,29,Male,Cardiology,Dr. Rao,Walk-in,5,43642,3.5,No,2026-08,18-35,8728.0
+P194,2026-08-23,41,Male,General Medicine,Dr. Reddy,Referral,3,12825,5.0,No,2026-08,36-50,4275.0
+P190,2026-08-24,44,Male,Orthopedics,Dr. Singh,Referral,4,53214,4.6,No,2026-08,36-50,13304.0
+P111,2026-08-25,37,Female,Emergency,Dr. Sharma,Emergency,1,21763,4.0,No,2026-08,36-50,21763.0
+P112,2026-08-27,54,Female,Gynecology,Dr. Lakshmi,Walk-in,5,29229,3.9,Yes,2026-08,51-65,5846.0
+P229,2026-08-29,47,Female,Emergency,Dr. Pillai,Emergency,4,45122,3.2,No,2026-08,36-50,11280.0
+P293,2026-08-30,17,Female,Emergency,Dr. Sharma,Emergency,3,36183,3.7,No,2026-08,0-17,12061.0
+P193,2026-08-31,41,Male,Cardiology,Dr. Rao,Referral,3,55452,3.4,No,2026-08,36-50,18484.0
+P298,2026-08-31,35,Female,Emergency,Dr. Sharma,Emergency,4,33079,3.8,No,2026-08,18-35,8270.0
+P082,2026-09-03,55,Female,Gynecology,Dr. Meena,Emergency,3,32399,3.8,Yes,2026-09,51-65,10800.0
+P079,2026-09-06,31,Male,General Medicine,Dr. Reddy,Walk-in,2,14261,3.9,No,2026-09,18-35,7130.0
+P204,2026-09-07,53,Female,Orthopedics,Dr. Singh,Emergency,5,52542,3.1,No,2026-09,51-65,10508.0
+P076,2026-09-08,31,Female,Emergency,Dr. Pillai,Emergency,1,28280,5.0,No,2026-09,18-35,28280.0
+P085,2026-09-09,41,Female,Emergency,Dr. Pillai,Emergency,4,28554,3.8,Yes,2026-09,36-50,7138.0
+P299,2026-09-09,33,Male,Emergency,Dr. Pillai,Emergency,2,29934,4.7,No,2026-09,18-35,14967.0
+P296,2026-09-10,39,Female,Gynecology,Dr. Lakshmi,Emergency,3,27726,5.0,No,2026-09,36-50,9242.0
+P035,2026-09-10,16,Male,General Medicine,Dr. Reddy,Emergency,4,14156,3.2,No,2026-09,0-17,3539.0
+P297,2026-09-11,43,Female,Gynecology,Dr. Meena,Referral,2,28884,3.3,No,2026-09,36-50,14442.0
+P239,2026-09-12,38,Male,General Medicine,Dr. Reddy,Emergency,1,12209,3.6,No,2026-09,36-50,12209.0
+P014,2026-09-15,6,Female,Pediatrics,Dr. Kumar,Emergency,1,19513,4.5,No,2026-09,0-17,19513.0
+P096,2026-09-16,39,Male,Emergency,Dr. Sharma,Emergency,2,31238,3.3,No,2026-09,36-50,15619.0
+P032,2026-09-17,52,Male,Orthopedics,Dr. Singh,Referral,4,38327,4.3,No,2026-09,51-65,9582.0
+P161,2026-09-17,50,Female,Orthopedics,Dr. Nair,Walk-in,5,42697,3.9,No,2026-09,36-50,8539.0
+P131,2026-09-19,16,Male,Gynecology,Dr. Meena,Walk-in,3,25398,3.9,No,2026-09,0-17,8466.0
+P159,2026-09-19,55,Female,Orthopedics,Dr. Nair,Walk-in,9,53091,3.9,No,2026-09,51-65,5899.0
+P251,2026-09-20,26,Female,Neurology,Dr. Das,Walk-in,5,42381,4.6,No,2026-09,18-35,8476.0
+P048,2026-09-21,59,Male,General Medicine,Dr. Babu,Referral,4,18318,4.2,No,2026-09,51-65,4580.0
+P196,2026-09-23,63,Male,General Medicine,Dr. Babu,Referral,5,20253,3.2,Yes,2026-09,51-65,4051.0
+P050,2026-09-23,19,Male,Emergency,Dr. Sharma,Emergency,2,23440,4.4,No,2026-09,18-35,11720.0
+P068,2026-09-24,43,Male,Cardiology,Dr. Rao,Emergency,2,44029,4.6,No,2026-09,36-50,22014.0
+P108,2026-09-24,49,Male,General Medicine,Dr. Menon,Emergency,4,16529,3.6,No,2026-09,36-50,4132.0
+P150,2026-09-25,43,Male,Gynecology,Dr. Meena,Referral,2,22815,3.8,No,2026-09,36-50,11408.0
+P176,2026-09-27,11,Male,Pediatrics,Dr. Kumar,Referral,2,15417,5.0,No,2026-09,0-17,7708.0
+P276,2026-09-27,31,Female,General Medicine,Dr. Menon,Emergency,2,13185,5.0,No,2026-09,18-35,6592.0
+P089,2026-09-30,11,Female,Pediatrics,Dr. Priya,Emergency,1,19926,3.3,No,2026-09,0-17,19926.0
+P054,2026-10-02,2,Male,Pediatrics,Dr. Kumar,Emergency,1,14459,3.2,No,2026-10,0-17,14459.0
+P036,2026-10-02,78,Male,Orthopedics,Dr. Nair,Walk-in,8,61177,4.4,No,2026-10,65+,7647.0
+P244,2026-10-03,65,Male,General Medicine,Dr. Babu,Emergency,5,22044,4.7,No,2026-10,51-65,4409.0
+P119,2026-10-03,3,Male,Pediatrics,Dr. Priya,Emergency,6,27140,3.4,No,2026-10,0-17,4523.0
+P025,2026-10-03,31,Male,Cardiology,Dr. Rao,Emergency,5,46829,4.8,No,2026-10,18-35,9366.0
+P162,2026-10-06,16,Female,Gynecology,Dr. Lakshmi,Walk-in,4,20337,3.3,No,2026-10,0-17,5084.0
+P129,2026-10-06,61,Female,Orthopedics,Dr. Nair,Walk-in,6,50827,5.0,No,2026-10,51-65,8471.0
+P060,2026-10-09,27,Female,General Medicine,Dr. Babu,Walk-in,4,19881,5.0,No,2026-10,18-35,4970.0
+P258,2026-10-10,40,Female,Emergency,Dr. Pillai,Emergency,3,29925,3.3,No,2026-10,36-50,9975.0
+P294,2026-10-10,50,Female,General Medicine,Dr. Menon,Emergency,4,15037,3.2,No,2026-10,36-50,3759.0
+P139,2026-10-11,76,Female,General Medicine,Dr. Babu,Emergency,6,19060,3.3,No,2026-10,65+,3177.0
+P284,2026-10-11,4,Female,Pediatrics,Dr. Kumar,Referral,5,22585,4.1,No,2026-10,0-17,4517.0
+P172,2026-10-11,58,Male,General Medicine,Dr. Menon,Emergency,4,19454,4.7,No,2026-10,51-65,4864.0
+P259,2026-10-13,38,Male,General Medicine,Dr. Babu,Walk-in,4,18420,3.5,No,2026-10,36-50,4605.0
+P027,2026-10-15,1,Female,Pediatrics,Dr. Priya,Walk-in,1,22104,3.7,No,2026-10,0-17,22104.0
+P197,2026-10-16,17,Female,Cardiology,Dr. Mehta,Referral,4,47551,4.0,No,2026-10,0-17,11888.0
+P256,2026-10-17,6,Female,Pediatrics,Dr. Priya,Walk-in,3,19192,3.5,No,2026-10,0-17,6397.0
+P222,2026-10-17,85,Female,Orthopedics,Dr. Singh,Emergency,6,43296,3.4,No,2026-10,65+,7216.0
+P066,2026-10-18,37,Female,Orthopedics,Dr. Nair,Walk-in,6,52661,4.0,No,2026-10,36-50,8777.0
+P118,2026-10-18,33,Female,Cardiology,Dr. Mehta,Emergency,4,54935,4.2,No,2026-10,18-35,13734.0
+P073,2026-10-18,68,Female,Emergency,Dr. Pillai,Emergency,5,37709,4.2,No,2026-10,65+,7542.0
+P175,2026-10-18,54,Female,Cardiology,Dr. Rao,Emergency,5,39023,3.5,No,2026-10,51-65,7805.0
+P262,2026-10-19,57,Male,Emergency,Dr. Pillai,Emergency,3,37546,3.7,No,2026-10,51-65,12515.0
+P247,2026-10-20,38,Female,Cardiology,Dr. Mehta,Referral,5,39129,3.1,No,2026-10,36-50,7826.0
+P030,2026-10-22,6,Female,Pediatrics,Dr. Priya,Walk-in,5,25107,4.1,No,2026-10,0-17,5021.0
+P078,2026-10-22,34,Male,Gynecology,Dr. Meena,Emergency,2,24439,4.7,No,2026-10,18-35,12220.0
+P220,2026-10-22,37,Female,Emergency,Dr. Sharma,Emergency,1,22974,3.7,No,2026-10,36-50,22974.0
+P031,2026-10-24,1,Female,Pediatrics,Dr. Priya,Referral,1,19973,5.0,No,2026-10,0-17,19973.0
+P180,2026-10-26,50,Male,Cardiology,Dr. Mehta,Emergency,5,54539,3.6,No,2026-10,36-50,10908.0
+P255,2026-10-26,42,Male,Neurology,Dr. Iyer,Walk-in,5,57925,4.1,No,2026-10,36-50,11585.0
+P063,2026-10-29,37,Female,General Medicine,Dr. Reddy,Emergency,4,16701,4.7,No,2026-10,36-50,4175.0
+P216,2026-10-29,46,Female,Neurology,Dr. Das,Emergency,7,48707,3.9,No,2026-10,36-50,6958.0
+P088,2026-10-30,40,Female,Neurology,Dr. Das,Referral,5,43470,4.7,No,2026-10,36-50,8694.0
+P053,2026-10-30,16,Female,Cardiology,Dr. Rao,Walk-in,3,52641,3.0,No,2026-10,0-17,17547.0
+P064,2026-10-31,29,Female,Orthopedics,Dr. Nair,Referral,7,46884,4.2,No,2026-10,18-35,6698.0
+P124,2026-11-01,8,Male,Pediatrics,Dr. Kumar,Emergency,4,22609,3.6,No,2026-11,0-17,5652.0
+P065,2026-11-02,13,Female,Pediatrics,Dr. Kumar,Emergency,3,17847,4.8,No,2026-11,0-17,5949.0
+P257,2026-11-03,82,Male,Cardiology,Dr. Rao,Emergency,3,47699,4.1,No,2026-11,65+,15900.0
+P235,2026-11-04,31,Female,Orthopedics,Dr. Nair,Emergency,4,50794,4.7,No,2026-11,18-35,12698.0
+P120,2026-11-05,56,Female,Emergency,Dr. Pillai,Emergency,4,28547,3.6,No,2026-11,51-65,7137.0
+P212,2026-11-08,32,Male,Neurology,Dr. Iyer,Walk-in,7,62514,3.1,No,2026-11,18-35,8931.0
+P164,2026-11-09,34,Male,Cardiology,Dr. Mehta,Emergency,5,52315,4.1,No,2026-11,18-35,10463.0
+P057,2026-11-11,25,Female,Emergency,Dr. Pillai,Emergency,1,19187,4.0,No,2026-11,18-35,19187.0
+P268,2026-11-12,16,Male,Orthopedics,Dr. Singh,Emergency,6,46562,5.0,No,2026-11,0-17,7760.0
+P170,2026-11-14,34,Female,Gynecology,Dr. Lakshmi,Emergency,3,28270,4.2,No,2026-11,18-35,9423.0
+P260,2026-11-16,66,Female,Neurology,Dr. Das,Walk-in,5,45041,4.3,No,2026-11,65+,9008.0
+P023,2026-11-22,17,Male,General Medicine,Dr. Babu,Emergency,5,14146,4.7,No,2026-11,0-17,2829.0
+P179,2026-11-23,50,Female,General Medicine,Dr. Babu,Walk-in,5,22632,3.2,No,2026-11,36-50,4526.0
+P200,2026-11-23,33,Male,General Medicine,Dr. Reddy,Emergency,3,14278,5.0,No,2026-11,18-35,4759.0
+P209,2026-11-23,28,Female,Emergency,Dr. Pillai,Emergency,4,28717,2.5,No,2026-11,18-35,7179.0
+P187,2026-11-26,44,Male,Cardiology,Dr. Rao,Emergency,2,50561,3.5,No,2026-11,36-50,25280.0
+P300,2026-11-26,12,Female,Pediatrics,Dr. Priya,Walk-in,5,20215,4.2,No,2026-11,0-17,4043.0
